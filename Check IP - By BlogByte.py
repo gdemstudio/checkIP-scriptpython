@@ -7,7 +7,7 @@ localhost = socket.gethostname()
 localIP = socket.gethostbyname(localhost)
 
 print('-------------------------------')
-print('___Check My IP - By BlogByte___')
+print('___Check My IP - By BlogByteSecurity___')
 print('-------------------------------\n')
 
 print('--------------------')
